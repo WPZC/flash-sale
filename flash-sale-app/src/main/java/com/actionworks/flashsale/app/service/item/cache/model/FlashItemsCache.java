@@ -4,7 +4,6 @@ import com.actionworks.flashsale.domain.model.entity.FlashItem;
 import lombok.Data;
 import lombok.experimental.Accessors;
 
-import java.util.ArrayList;
 import java.util.List;
 
 @Data
